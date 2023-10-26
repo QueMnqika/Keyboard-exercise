@@ -1,0 +1,24 @@
+
+
+.container-fluid{
+    border: 1px solid #000;
+    width: 76%;
+    margin-top: 5%;
+    background-color: #909090;
+    box-shadow: 0 0 8px #000;
+}
+
+
+.row{
+    padding: 0.5%;
+}
+
+.space{
+    padding: 1% 40%;
+}
+
+.shift{
+    padding: 8% 40%;
+    margin-right: 5%;
+}
+
